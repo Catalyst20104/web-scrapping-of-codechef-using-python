@@ -11,7 +11,7 @@ This project is a Python-based web scraper that extracts profile data from CodeC
 - Requests
 # Installation:
 1. Clone the Repository:
-- git clone https://github.com/yourusername/codechef-profile-scraper.git
+- git clone https://github.com/Catalyst20104/web-scrapping-of-codechef-using-python.git
 - cd codechef-profile-scraper
 2.Install Dependencies:Ensure you have Python installed, then install the required Python packages:
 - pip install beautifulsoup4 requests
